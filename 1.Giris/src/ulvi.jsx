@@ -1,19 +1,9 @@
 function Ulvi() {
-  let arr = [4, '6', 7, 'ananas', 11, 23,'alama'];
-
+  let arr = [1,2,3,4,5,6,7,8];
+let sum=arr.reduce((acc,item)=>acc+=item)
   return (
     <div>
-      <p>{arr.filter((item) => typeof item ==='string')
-        .map((item,index)=>(
-            <p style={{
-                backgroundColor:"green",
-                padding:'10px',
-                color:"white",
-                fontSize:'20px',
-                borderRadius:"10px",
-                cursor:"pointer"
-            }} key={index}>{item}</p>
-        ))}</p>
+    {sum}
     </div>
   );
 }

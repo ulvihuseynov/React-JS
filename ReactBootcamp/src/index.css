@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    display: flex;
+    gap: 30px;
+    background-color: black;
+height: 60px;
+align-items: center;
+padding-left: 30px;
+
+}
+.link{
+    font-size: 22px;
+    text-decoration: none;
+    color: rgb(201, 193, 193);
+    font-weight: 600;
+    font-family: cursive;
+}

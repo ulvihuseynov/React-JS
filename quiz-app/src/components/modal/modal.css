@@ -1,0 +1,23 @@
+.modal{
+text-align: center;
+}
+.modal-btn{
+    width: 300px;
+color: white;
+background-color: rgb(2, 195, 18);
+border-radius: 10px;
+display: flex;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+padding: 10px;
+font-size: 22px;
+font-weight: bold;
+margin-top: 1rem;
+}
+.modal-title{
+    font-size: 30px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: white;
+}

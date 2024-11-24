@@ -1,0 +1,13 @@
+$red:red;
+$yellow:rgb(243, 255, 8);
+
+
+.head{
+    background-color: white;
+    font-size: 50px;
+    span{
+        padding: 20px;
+        background-color: $yellow;
+        color: white;
+    }
+}

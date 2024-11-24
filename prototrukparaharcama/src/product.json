@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "title":"Koynek",
+        "amount":1,
+        "price":13,
+        "image":"https://s3.eu-central-1.amazonaws.com/bilder.modehaus.de/5/7/1/5/6/0/2/8/9/0/7/7/9/5715602890779_fc0_medium.jpg"
+    },
+    {
+        "id":2,
+        "title":"Palto",
+        "amount":1,
+        "price":34,
+        "image":"https://i.pinimg.com/736x/e9/e7/2e/e9e72e4123b077dbd796b0d28bff10b1.jpg"
+    }, {
+        "id":3,
+        "title":"Salvar",
+        "amount":1,
+        "price":26.5,
+        "image":"https://happygentleman.com/wp-content/uploads/2020/09/matteo-tweed-herringbone-mens-formal-trousers-139x300.jpg"
+    }, {
+        "id":4,
+        "title":"Ayaqqabi",
+        "amount":1,
+        "price":20,
+        "image":"https://assets.ajio.com/medias/sys_master/root/20240717/kVuL/669716af1d763220facecf51/-1117Wx1400H-462268764-brown-MODEL.jpg"
+    }
+]
